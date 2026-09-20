@@ -52,9 +52,9 @@ Below is a comparison of commercial Kubernetes Security Platforms, sorted by com
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-Curated list of active open-source Kubernetes security tools, sorted by GitHub Stars (descending). ⭐
+Curated list of active open-source Kubernetes security tools, sorted by GitHub_Stars (descending). ⭐
 
-| Project | GitHub Stars | Primary Focus & License | Description |
+| Project | GitHub_Stars | Primary Focus & License | Description |
 | :--- | :--- | :--- | :--- |
 | **[Trivy](https://github.com/aquasecurity/trivy)** | [![Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers) | Vulnerability & Misconfiguration Scanner *(Apache-2.0)* | Comprehensive security scanner for container images, file systems, Git repos, Kubernetes clusters, and SBOM generation. 🔍 |
 | **[Falco](https://github.com/falcosecurity/falco)** | [![Stars](https://img.shields.io/github/stars/falcosecurity/falco?style=social&color=white)](https://github.com/falcosecurity/falco/stargazers) | eBPF Runtime Threat Detection *(Apache-2.0)* | CNCF Graduated runtime security engine monitoring kernel syscalls for anomalous behavior and security violations. 🦅 |
